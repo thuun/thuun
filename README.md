@@ -1,4 +1,4 @@
 # Thanks for stopping by.
 
-**Heres a bit about myself [@thuun](https://github.com/thuun)...**
+**Heres a bit about me ([@thuun](https://github.com/thuun))...**
 
