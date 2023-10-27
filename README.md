@@ -9,7 +9,7 @@ That is, things that people love, things that people use, things that make them 
 
 Doing some amazing work for ꓘ
 
+##### Be my coffee friend:
 ```c
-//be my coffee friend
 kaspa:qzf2njtad5ssh6c4e74y4gle7qdx6vkwc89u5st2n26lrqc9mxakxul4dxvc9
 ```
