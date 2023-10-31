@@ -5,7 +5,7 @@
 I'm coder of things that bring purpose and meaning.
 That is, things that people love, things that people use, things that make them go.
 
-![image](https://github.com/thuun/thuun/assets/146863849/0cb6aa4e-e6b9-4592-9029-346a230e61b9)
+![image](https://github.com/thuun/thuun/assets/146863849/431ce733-fe90-4d74-92d0-c93d58e964f5)
 
 
 Doing some amazing work for ꓘ
